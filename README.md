@@ -1,19 +1,18 @@
 # Welcome to My Printf
 ***
-
+HHello here, Here is just below the summary of my final project learning in C.
 ## Task
-TODO - What is the problem? And where is the challenge?
+Well, the problem is to reproduce the famous function Printf "Hello world" of the C language and to write the number of iterations of each letter. And now the challenge is to improve and work hard to pass the challenge and gain experience by enduring chess.
 
 ## Description
-TODO - How have you solved the problem?
+ok, to solve this problem, it was not easy because basic, I don't like the C language, and... to understand all the concepts of the printf function and succeed in reproducing that, I forgot that I am brainless and I attacked the problems, by the small problems while trying to solve everything by the calls of functions, it was easier like that. But despite all this I could not do a 24/24...
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+Normally this program haven't need Installation but we can test this in Terminal.
 
 ## Usage
-TODO - How does it work?
 ```
-./my_project argument1 argument2
+./my_project Makefile my_printf.c my_printf.o my_printf Readme.md
 ```
 
 ### The Core Team
